@@ -73,4 +73,4 @@ con la base de datos.
 
 *[Conclusión](#conclusión)
 <P>Está aplicación es muy útil para buscar cualquier libro, la API gutendex cuenta con más de 70.000 libros en varios idiomas,
-  por lo cual es muy dificl que no pueda encontrar el libro que desee.</P>
+  por lo cual es muy difícil que no pueda encontrar el libro que desee.</P>
