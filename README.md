@@ -44,12 +44,10 @@ Para salir del programa solo presione 0
 
 ![liter8](https://github.com/user-attachments/assets/388a4602-752f-47ed-9e12-455ececd89fb)
 
-
-
 <h3>Características para el desarrollador</h3>
 
 Este programa fue realizado con spring boot y consta de clases modelos, clases de configuración, la clase principal, 
-records e interfaces para repositorios. En el archivos application.properties de agregó la configuración para la conexión
+records e interfaces para repositorios. En el archivo application.properties se agregó la configuración para la conexión
 con la base de datos.
 
 ![liter9](https://github.com/user-attachments/assets/ecdeba72-ff74-4e01-ad2e-d5d59fa59dc9)
