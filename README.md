@@ -1,71 +1,78 @@
-<div align="center">
-  <h1 align="center">
-    LITERAGOOD
-    <br />
-    <br />
+<h1 align = "center">Literalura</h1>
 
-[![BANMNER-LOW.jpg](https://i.postimg.cc/k4fBnm06/BANMNER-LOW.jpg)](https://postimg.cc/k6RnckXq)
-
-  </h1>
-</div>
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Representación de literalura](https://github.com/user-attachments/assets/9ebc3689-53a1-4546-802b-108c912a8453)
 
 
-# challenge 2-Alura-Oracle-api-consumo-back-literatura
+*[Descripción del proyecto](#Descripción-del-proyecto).
+<p>Esta es una aplicación capaz de buscar cualquier libro mediante la API de gutendex</p>
+
+*[Estado del proyecto](#Estado-del-proyecto)
+<h4>Concluido</h4>
+
+*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+
+<h3>Características para el usuario</h3>
+Primero se muestra el menu principal de la aplicación.
+
+![liter1](https://github.com/user-attachments/assets/d87a04da-c575-4d82-ba15-bb89d8f1e8fd)
 
 
-## 💡 SOBRE EL CODIGO 💡
-Desarrollo basado en los criterios del Challengs 2 Alura Consumo de api Gutendex, donde se optiene gran serie de datos sobre libros, aqui podemos ver menjo de json del api al desarrollo, mapeo de entidades, Jpa creacion base de datos. registro de informacion DB, consumo de esta en formata requerido, algunas de las funciones como traer libros almacenado, autores, top10 libros mas descargados.
+Aquí debe seleccionar la opcion 1 para comenzar a buscar el libro que desee.
+
+Una vez elegida la opción, debe ingresar el libro que desea encontrar.
+
+![liter2](https://github.com/user-attachments/assets/8bf4cb2f-3ca6-44a5-96cc-244ea5408b2f)
 
 
-## 🌟 FUNCIONES DEL DESARROLLO 🌟
+Al presionar la tecla enter, nos mostrará el libro buscado y lo guardara en la base de datos.
 
-- 🌟 Consumo api GUTENDEX
-- 🌟 CRUD LIBROS
-- 🌟 MANEJO DATOS DTOS
-- 🌟 JPA
-- 🌟 MYSQL
-
-# 🌟 Menu 🌟
-
-[![Sin-t-tulo.jpg](https://i.postimg.cc/jdZLnDBB/Sin-t-tulo.jpg)](https://postimg.cc/HV8pfkYt)
+![liter3](https://github.com/user-attachments/assets/0a5db798-17a8-4006-aa53-389b692a1910)
 
 
-# 🌟 Manejo Informacion almacenada en DB ya consumida de la API-Gutendex 🌟
+Puede continuar utilizando el programa para ver los libros registrados, ver los autores registrados, listar autores vivos en un
+determinado año o listar libros por idioma.
 
-[![2.jpg](https://i.postimg.cc/8P17CRXh/2.jpg)](https://postimg.cc/w3Gqfmpv)
+![liter4](https://github.com/user-attachments/assets/41410987-74e0-4dec-8e66-5c71b2775264)
 
+![liter5](https://github.com/user-attachments/assets/51c3d735-e204-4100-9638-9fca28551be1)
 
-# 🌟 Top Libros mas descargados 🌟
+![liter6](https://github.com/user-attachments/assets/f47f7c2a-26e3-4914-8206-8165579c0b59)
 
-[![3.jpg](https://i.postimg.cc/jS2CHsb2/3.jpg)](https://postimg.cc/Jsw1mCtC)
+![liter7](https://github.com/user-attachments/assets/c351447c-f2db-43dc-b0a6-ad64b0aa6c4b)
 
-# 🌟 Tablas DB 🌟
+Para salir del programa solo presione 0
 
-[![4.jpg](https://i.postimg.cc/XYPqxTj8/4.jpg)](https://postimg.cc/VJjzkZbr)
-
-## 🌟 IDES/ INSTALACIÓN O REQUERIMIENTOS🌟
-- MAVEN
-- LIBRERIAS SPRING - JPA - POSTGRESDB
-- INTELIJ IDEA
-- P0
+![liter8](https://github.com/user-attachments/assets/388a4602-752f-47ed-9e12-455ececd89fb)
 
 
-## 🌟 Tecnologías usadas 🌟
-| Tecnología | Versión | Descripción                                                                     |
-|------------|---------|---------------------------------------------------------------------------------|
-|SPRINGBOOT       | 3.1.5       | Lenguaje para la logica y consumo api. |
+
+<h3>Características para el desarrollador</h3>
+
+Este programa fue realizado con spring boot y consta de clases modelos, clases de configuración, la clase principal, 
+records e interfaces para repositorios. En el archivos application.properties de agregó la configuración para la conexión
+con la base de datos.
+
+![liter9](https://github.com/user-attachments/assets/ecdeba72-ff74-4e01-ad2e-d5d59fa59dc9)
+
+![liter10](https://github.com/user-attachments/assets/bd0e0c93-a96e-4aad-91da-7f1f425dec05)
+
+*[Acceso al proyecto](#acceso-proyecto)
+<h6>Para acceder al proyecto puedes hacerlo en la siguiente URL:</h6>
+<p></p>https://github.com/Juank2025/challenge-literalura.git</p>
 
 
-## 🤝 Redes sociales 🤝
+*[Lenguajes y tecnologías utilizadas](#tecnologías-utilizadas)
+- Lenguaje de programación: Java
+- Entorno de desarrollo: Intellij IDEA
+- Framework: Spring Boot
+- Dependecias: spring-boot-starter, jackson-databind, spring-boot-starter-data-jpa y postgresql
+- Base de datos: PostgreSQL
+- API: Gutendex-API
 
--  GitHub: https://github.com/Johanlex20
--  LinkedIn: https://www.linkedin.com/in/johanlex20/
+*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/johanlex20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomasz-oleksik-03190a189" height="30" width="40" /></a>
-<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/" height="30" width="40" /></a>
-</p>
+<h3>Juan Carlos Palma</h3> 
+
+*[Conclusión](#conclusión)
+<P>Está aplicación es muy útil para buscar cualquier libro, la API gutendex cuenta con más de 70.000 libros en varios idiomas,
+  por lo cual es muy dificl que no pueda encontrar el libro que desee.</P>
